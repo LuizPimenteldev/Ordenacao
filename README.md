@@ -47,7 +47,6 @@ Para cada algoritmo de ordenação, medir o tempo de execução usando os conjun
 Repetir cada teste 5 vezes para obter uma média precisa dos tempos de execução.
 Número de Repetições:
 Cada teste é repetido 5 vezes, e a média dos tempos de execução é calculada para obter uma medida representativa do desempenho.
-
 4. Discussão dos Resultados
 Comparação do Desempenho:
 
